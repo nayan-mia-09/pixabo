@@ -17,5 +17,24 @@
   "bugs": {
     "url": "https://github.com/nayan-mia-09/pixabo/issues"
   },
-  "homepage": "https://github.com/nayan-mia-09/pixabo#readme"
+  "homepage": "https://github.com/nayan-mia-09/pixabo#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^8.7.0",
+    "form-data": "^4.0.6",
+    "helmet": "^8.3.0",
+    "hpp": "^0.2.3",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.10.4",
+    "mongoose-unique-validator": "^6.1.1",
+    "multer": "^2.4.0",
+    "xss-clean": "^0.1.4"
+  }
 }
