@@ -1,0 +1,21 @@
+{
+  "name": "pixabo",
+  "version": "1.0.0",
+  "description": "E-commerce Project 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayan-mia-09/pixabo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nayan-mia-09/pixabo/issues"
+  },
+  "homepage": "https://github.com/nayan-mia-09/pixabo#readme"
+}
